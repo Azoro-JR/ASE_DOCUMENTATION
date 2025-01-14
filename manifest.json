@@ -1,0 +1,85 @@
+{
+  "source_base_path": "C:/Users/user/source/repos/ase-boose-assignment-Azoro-JR",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "ASE assignment_azoro/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "ASE assignment_azoro/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "ASE assignment_azoro/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "ASE assignment_azoro/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "ASE assignment_azoro/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "ASE assignment_azoro/toc.html"
+        },
+        ".json": {
+          "relative_path": "ASE assignment_azoro/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "README.md",
+      "output": {
+        ".html": {
+          "relative_path": "README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
